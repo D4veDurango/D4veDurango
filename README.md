@@ -35,7 +35,7 @@
 
 <p align="center">
   <div align="center" class="icons-social" style="margin-left: 10px;">
-    <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/david-durango-115969261/">
+    <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/david-durango-115969261/](https://www.linkedin.com/in/juan-david-durango-giraldo-115969261/">
       <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
     </a>
     <a style="margin-left: 10px;" href="mailto:durangodavid2608@gmail.com">
