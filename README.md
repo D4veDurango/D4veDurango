@@ -41,12 +41,12 @@
 
 ---
 
-<h2 align="center">🚀 Proyectos Destacados</h2>
+<h2 align="center">Proyectos Destacados</h2>
 
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">NodeBean 🍫</h3>
+      <h3 align="center">NodeBean</h3>
       <p align="center">
         Sistema de trazabilidad digital para productores de cacao en Urabá, Antioquia. Documenta todo el proceso productivo — cosecha, fermentación, secado y almacenamiento — y genera una carta de trazabilidad verificable con código QR.
       </p>
@@ -64,7 +64,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Control de Implementos Universitarios 🏫</h3>
+      <h3 align="center">Control de Implementos Universitarios</h3>
       <p align="center">
         Aplicación web para gestionar el flujo de entrada y salida de implementos en una institución universitaria. Roles diferenciados, stock automatizado y trazabilidad completa de cada movimiento.
       </p>
