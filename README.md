@@ -58,7 +58,7 @@
       </p>
       <p align="center">App móvil Android · Auth Google OAuth · Cámara nativa · QR automático</p>
       <p align="center">
-        <a href="https://github.com/D4veDurango/NodeBean" target="_blank">
+        <a href="[https://github.com/D4veDurango/NodeBean](https://github.com/D4veDurango/trazabilidad_digital.git)" target="_blank">
           <img src="https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
