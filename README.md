@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/david-durango-115969261/" target="blank">David</a></h1>
+<h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/david-durango-115969261/" target="blank">David</a></h1>
 <h3 align="center">Estudiante de Ingeniería de Sistemas | Desarrollador Web & Mobile 🇨🇴</h3>
 
 <a target="_blank" align="center">
