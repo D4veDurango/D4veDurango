@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/david-durango-115969261/" target="blank">David</a></h1>
-<h3 align="center">Estudiante de Ingeniería de Sistemas | Desarrollador Web & Mobile 🍫 🇨🇴</h3>
+<h3 align="center">Estudiante de Ingeniería de Sistemas | Desarrollador Web & Mobile 🇨🇴</h3>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🎓 Estudiante de Ingeniería de Sistemas en búsqueda de prácticas profesionales
-- 🌱 Aprendiendo cada día — me interesa el desarrollo de software con impacto real
-- 🤝 Disponible para prácticas, proyectos web/móvil y colaboraciones
-- 📫 Contacto: **durangodavid2608@gmail.com**
+-  Estudiante de Ingeniería de Sistemas en búsqueda de prácticas profesionales
+-  Aprendiendo cada día — me interesa el desarrollo de software con impacto real
+-  Disponible para prácticas, proyectos web/móvil y colaboraciones
+-  Contacto: **durangodavid2608@gmail.com**
 
 <br/><br/><br/><br/><br/>
 
