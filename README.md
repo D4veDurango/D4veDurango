@@ -96,7 +96,7 @@
       </p>
       <p align="center">Limpieza de datos · Modelo relacional · Semáforo condicional · Análisis de costos</p>
       <p align="center">
-        <a href="https://github.com/D4veDurango/AQUI_VA_EL_NOMBRE_DE_TU_REPO" target="_blank">
+        <a href="https://github.com/D4veDurango/analisis-logistica-banano.git" target="_blank">
           <img src="https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
