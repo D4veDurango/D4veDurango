@@ -81,7 +81,9 @@
         </a>
       </p>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+</table>
+<td width="50%" valign="top">
       <h3 align="center">Logística Bananera Urabá</h3>
       <p align="center">
         Pipeline de datos ETL en Python y dashboard ejecutivo en Power BI para optimizar la cadena de exportación bananera. Analiza el impacto financiero de las mermas y tiempos de tránsito por municipio y franja horaria.
@@ -99,7 +101,7 @@
         </a>
       </p>
     </td>
-  </tr>
+     </tr>
 </table>
 
 ---
