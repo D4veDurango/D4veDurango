@@ -81,6 +81,24 @@
         </a>
       </p>
     </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Logística Bananera Urabá</h3>
+      <p align="center">
+        Pipeline de datos ETL en Python y dashboard ejecutivo en Power BI para optimizar la cadena de exportación bananera. Analiza el impacto financiero de las mermas y tiempos de tránsito por municipio y franja horaria.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+        <img src="https://img.shields.io/badge/DAX-00758F?style=for-the-badge&logo=microsoft&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+      </p>
+      <p align="center">Limpieza de datos · Modelo relacional · Semáforo condicional · Análisis de costos</p>
+      <p align="center">
+        <a href="https://github.com/D4veDurango/AQUI_VA_EL_NOMBRE_DE_TU_REPO" target="_blank">
+          <img src="https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
   </tr>
 </table>
 
