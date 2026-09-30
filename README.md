@@ -64,26 +64,6 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Control de Implementos Universitarios</h3>
-      <p align="center">
-        Aplicación web para gestionar el flujo de entrada y salida de implementos en una institución universitaria. Roles diferenciados, stock automatizado y trazabilidad completa de cada movimiento.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-      </p>
-      <p align="center">4 roles de usuario · Historial con timestamps · Subida de archivos · Email con Nodemailer</p>
-      <p align="center">
-        <a href="https://github.com/D4veDurango/proyecto_implementos" target="_blank">
-          <img src="https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-<td width="50%" valign="top">
       <h3 align="center">Logística Bananera Urabá</h3>
       <p align="center">
         Pipeline de datos ETL en Python y dashboard ejecutivo en Power BI para optimizar la cadena de exportación bananera. Analiza el impacto financiero de las mermas y tiempos de tránsito por municipio y franja horaria.
@@ -97,6 +77,26 @@
       <p align="center">Limpieza de datos · Modelo relacional · Semáforo condicional · Análisis de costos</p>
       <p align="center">
         <a href="https://github.com/D4veDurango/analisis-logistica-banano.git" target="_blank">
+          <img src="https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+    <td width="50%" valign="top">
+      <h3 align="center">Control de Implementos Universitarios</h3>
+      <p align="center">
+        Aplicación web para gestionar el flujo de entrada y salida de implementos en una institución universitaria. Roles diferenciados, stock automatizado y trazabilidad completa de cada movimiento.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+      </p>
+      <p align="center">4 roles de usuario · Historial con timestamps · Subida de archivos · Email con Nodemailer</p>
+      <p align="center">
+        <a href="https://github.com/D4veDurango/proyecto_implementos" target="_blank">
           <img src="https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
