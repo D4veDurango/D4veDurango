@@ -1,14 +1,15 @@
-<h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/david-durango-115969261/" target="blank">David</a></h1>
-<h3 align="center">Estudiante de Ingeniería de Sistemas | Desarrollador Web & Mobile 🇨🇴</h3>
+<h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/juan-david-durango-giraldo-115969261/" target="blank">David</a></h1>
+<h3 align="center">Ingeniero de Sistemas | Análisis de Datos & Desarrollo de Software 🇨🇴</h3>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
--  Estudiante de Ingeniería de Sistemas en búsqueda de prácticas profesionales
--  Aprendiendo cada día — me interesa el desarrollo de software con impacto real
--  Disponible para prácticas, proyectos web/móvil y colaboraciones
--  Contacto: **durangodavid2608@gmail.com**
+- 🎓 Ingeniero de Sistemas con 6 meses de experiencia en un entorno empresarial
+- 📊 Busco mi siguiente paso como analista de datos; también me interesa el desarrollo de software
+- 🌱 Sigo aprendiendo cada día, con interés en proyectos de impacto real: agro, logística y gestión institucional
+- 🤝 Disponible para oportunidades profesionales y colaboraciones
+- 📫 Contacto: **durangodavid2608@gmail.com**
 
 <br/><br/><br/><br/><br/>
 
@@ -17,12 +18,24 @@
 <h2 align="center">Perfil Profesional</h2>
 
 <p align="center">
-  Estudiante de Ingeniería de Sistemas con enfoque en desarrollo web y móvil.<br/>
-  Experiencia construyendo aplicaciones reales con backend, bases de datos relacionales y autenticación segura.<br/>
-  Creador de <strong>NodeBean</strong>, sistema de trazabilidad digital para productores de cacao en la región de Urabá, Antioquia.<br/>
-  Interesado en soluciones de impacto agrícola, gestión institucional y arquitecturas serverless.<br/>
-  Comprometido con escribir código limpio, documentado y orientado al usuario final.
+  Ingeniero de Sistemas con 6 meses de experiencia profesional y enfoque en análisis de datos.<br/>
+  Durante mis prácticas profesionales analicé datos de conectividad, automaticé tareas con scripts y apoyé la administración de redes e infraestructura TI.<br/>
+  He construido proyectos propios con Python, Power BI, Node.js y bases de datos relacionales, entre ellos <strong>NodeBean</strong>, un sistema de trazabilidad para productores de cacao en Urabá, Antioquia.<br/>
+  Busco seguir creciendo en un equipo donde pueda aprender, aportar y trabajar con datos.
 </p>
+
+---
+
+<h2 align="center">Experiencia</h2>
+
+<h3 align="center">Prácticas Profesionales · Ingeniería de Sistemas · 6 meses</h3>
+
+- 📊 **Análisis de datos:** análisis de conectividad y latencia de enlaces de red a partir de pruebas de ping, con informes para apoyar decisiones técnicas.
+- 🐍 **Automatización y scripting:** apoyo en la automatización de tareas repetitivas y en la organización de datos operativos (latencias, inventarios y registros de red).
+- 🌐 **Redes:** gestión en MikroTik (filtrado de MAC y scripts de diagnóstico), redes virtuales con ZeroTier y repaso de segmentación, firewall y controladores de dominio.
+- 🛡️ **Respaldos:** ejecución y verificación de copias de seguridad de bases de datos y equipos, incluyendo respaldo en la nube con Veeam Cloud Connect.
+- 🛠️ **Soporte técnico:** atención de incidencias y asistencia remota con AnyDesk y RustDesk.
+- 📝 **Documentación:** redacción de procedimientos, instructivos y reportes de estado para el área de TI.
 
 ---
 
@@ -33,8 +46,10 @@
 | Categoría | Tecnologías |
 |---|---|
 | **Lenguajes** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Datos y Automatización** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-00758F?style=flat-square&logo=microsoft&logoColor=white) |
 | **Frameworks y Tecnologías** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
 | **Bases de Datos** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) |
+| **Redes e Infraestructura** | ![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=flat-square&logo=mikrotik&logoColor=white) ![ZeroTier](https://img.shields.io/badge/ZeroTier-FFB441?style=flat-square&logo=zerotier&logoColor=black) ![Veeam](https://img.shields.io/badge/Veeam-00B336?style=flat-square&logo=veeam&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) |
 | **Herramientas** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
 
 </div>
@@ -82,7 +97,7 @@
       </p>
     </td>
   </tr>
-</table>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">Control de Implementos Universitarios</h3>
       <p align="center">
@@ -101,7 +116,8 @@
         </a>
       </p>
     </td>
-     </tr>
+    <td width="50%" valign="top"></td>
+  </tr>
 </table>
 
 ---
