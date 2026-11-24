@@ -1,139 +1,241 @@
-<h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/juan-david-durango-giraldo-115969261/" target="blank">David</a></h1>
-<h3 align="center">Ingeniero de Sistemas | Análisis de Datos & Desarrollo de Software 🇨🇴</h3>
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
-
-- 🎓 Ingeniero de Sistemas con 6 meses de experiencia en un entorno empresarial
-- 📊 Busco mi siguiente paso como analista de datos; también me interesa el desarrollo de software
-- 🌱 Sigo aprendiendo cada día, con interés en proyectos de impacto real: agro, logística y gestión institucional
-- 🤝 Disponible para oportunidades profesionales y colaboraciones
-- 📫 Contacto: **durangodavid2608@gmail.com**
-
-<br/><br/><br/><br/><br/>
-
----
-
-<h2 align="center">Perfil Profesional</h2>
-
-<p align="center">
-  Ingeniero de Sistemas con 6 meses de experiencia profesional y enfoque en análisis de datos.<br/>
-  Durante mis prácticas profesionales analicé datos de conectividad, automaticé tareas con scripts y apoyé la administración de redes e infraestructura TI.<br/>
-  He construido proyectos propios con Python, Power BI, Node.js y bases de datos relacionales, entre ellos <strong>NodeBean</strong>, un sistema de trazabilidad para productores de cacao en Urabá, Antioquia.<br/>
-  Busco seguir creciendo en un equipo donde pueda aprender, aportar y trabajar con datos.
-</p>
-
----
-
-<h2 align="center">Experiencia</h2>
-
-<h3 align="center">Prácticas Profesionales · Ingeniería de Sistemas · 6 meses</h3>
-
-- 📊 **Análisis de datos:** análisis de conectividad y latencia de enlaces de red a partir de pruebas de ping, con informes para apoyar decisiones técnicas.
-- 🐍 **Automatización y scripting:** apoyo en la automatización de tareas repetitivas y en la organización de datos operativos (latencias, inventarios y registros de red).
-- 🌐 **Redes:** gestión en MikroTik (filtrado de MAC y scripts de diagnóstico), redes virtuales con ZeroTier y repaso de segmentación, firewall y controladores de dominio.
-- 🛡️ **Respaldos:** ejecución y verificación de copias de seguridad de bases de datos y equipos, incluyendo respaldo en la nube con Veeam Cloud Connect.
-- 🛠️ **Soporte técnico:** atención de incidencias y asistencia remota con AnyDesk y RustDesk.
-- 📝 **Documentación:** redacción de procedimientos, instructivos y reportes de estado para el área de TI.
-
----
-
-<h2 align="center">Competencias Técnicas</h2>
+<!--
+  GITHUB PROFILE README
+  David Durango | Systems Engineer
+-->
 
 <div align="center">
 
-| Categoría | Tecnologías |
-|---|---|
-| **Lenguajes** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Datos y Automatización** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-00758F?style=flat-square&logo=microsoft&logoColor=white) |
-| **Frameworks y Tecnologías** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
-| **Bases de Datos** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) |
-| **Redes e Infraestructura** | ![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=flat-square&logo=mikrotik&logoColor=white) ![ZeroTier](https://img.shields.io/badge/ZeroTier-FFB441?style=flat-square&logo=zerotier&logoColor=black) ![Veeam](https://img.shields.io/badge/Veeam-00B336?style=flat-square&logo=veeam&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) |
-| **Herramientas** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+# Hola, soy David Durango 👋
+
+### Ingeniero de Sistemas | Análisis de Datos & Desarrollo de Software
+
+**Transformando datos en información y tecnología en soluciones reales.**
+
+🇨🇴 Colombia · Abierto a oportunidades profesionales
+
+<p>
+  <a href="https://www.linkedin.com/in/juan-david-durango-giraldo-115969261/">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:durangodavid2608@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contactar-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-<h2 align="center">Proyectos Destacados</h2>
+## 👨‍💻 Sobre mí
 
-<table align="center">
+Soy Ingeniero de Sistemas con experiencia en entornos empresariales y un interés particular en el análisis de datos, la automatización de procesos y el desarrollo de soluciones tecnológicas.
+
+Me interesa trabajar con datos para identificar patrones, generar información útil y apoyar la toma de decisiones. También disfruto desarrollar aplicaciones y herramientas que resuelvan necesidades concretas.
+
+Durante mi experiencia profesional he trabajado con análisis de conectividad, automatización mediante scripts, administración de infraestructura TI y documentación técnica.
+
+Actualmente continúo fortaleciendo mis conocimientos en **SQL, Python, Power BI y análisis de datos**, mientras desarrollo proyectos que conectan la tecnología con necesidades reales de diferentes sectores.
+
+---
+
+## 📊 Áreas de interés
+
+<table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">NodeBean</h3>
-      <p align="center">
-        Sistema de trazabilidad digital para productores de cacao en Urabá, Antioquia. Documenta todo el proceso productivo — cosecha, fermentación, secado y almacenamiento — y genera una carta de trazabilidad verificable con código QR.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-      </p>
-      <p align="center">App móvil Android · Auth Google OAuth · Cámara nativa · QR automático</p>
-      <p align="center">
-        <a href="https://github.com/D4veDurango/trazabilidad_digital" target="_blank">
-          <img src="https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
+      <h3>📈 Análisis de Datos</h3>
+      <p>Transformación, exploración y visualización de datos para generar información que facilite la toma de decisiones.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Logística Bananera Urabá</h3>
-      <p align="center">
-        Pipeline de datos ETL en Python y dashboard ejecutivo en Power BI para optimizar la cadena de exportación bananera. Analiza el impacto financiero de las mermas y tiempos de tránsito por municipio y franja horaria.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-        <img src="https://img.shields.io/badge/DAX-00758F?style=for-the-badge&logo=microsoft&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-      </p>
-      <p align="center">Limpieza de datos · Modelo relacional · Semáforo condicional · Análisis de costos</p>
-      <p align="center">
-        <a href="https://github.com/D4veDurango/analisis-logistica-banano.git" target="_blank">
-          <img src="https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
+      <h3>💻 Desarrollo de Software</h3>
+      <p>Construcción de aplicaciones web y soluciones digitales orientadas a resolver problemas operativos y empresariales.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
       </p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Control de Implementos Universitarios</h3>
-      <p align="center">
-        Aplicación web para gestionar el flujo de entrada y salida de implementos en una institución universitaria. Roles diferenciados, stock automatizado y trazabilidad completa de cada movimiento.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-      </p>
-      <p align="center">4 roles de usuario · Historial con timestamps · Subida de archivos · Email con Nodemailer</p>
-      <p align="center">
-        <a href="https://github.com/D4veDurango/proyecto_implementos" target="_blank">
-          <img src="https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
 ---
 
-<h3 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">
-  Connect with me 🤝
-</h3>
+## 💼 Experiencia profesional
 
-<p align="center">
-  <div align="center" class="icons-social" style="margin-left: 10px;">
-    <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/juan-david-durango-giraldo-115969261/">
-      <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
-    </a>
-    <a style="margin-left: 10px;" href="mailto:durangodavid2608@gmail.com">
-      <img src="https://img.icons8.com/doodle/40/000000/gmail--v2.png"/>
-    </a>
-  </div>
+### Prácticas profesionales | Ingeniería de Sistemas
+**6 meses de experiencia en entorno empresarial**
+
+Durante mi experiencia profesional participé en actividades relacionadas con la administración de infraestructura tecnológica, análisis de información y soporte a operaciones de TI.
+
+- **Análisis de datos:** evaluación de conectividad y latencia de enlaces de red mediante pruebas de ping y elaboración de informes técnicos.
+- **Automatización:** apoyo en la creación de scripts y automatización de tareas repetitivas para organizar información operativa.
+- **Infraestructura y redes:** administración y diagnóstico de redes mediante MikroTik, ZeroTier y herramientas de soporte.
+- **Gestión de respaldos:** ejecución y verificación de copias de seguridad de bases de datos y equipos mediante Veeam Cloud Connect.
+- **Soporte técnico:** atención de incidencias y asistencia remota utilizando AnyDesk y RustDesk.
+- **Documentación:** elaboración de procedimientos, instructivos y reportes técnicos.
+
+---
+
+## 🚀 Proyectos destacados
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🌱 NodeBean
+
+**Trazabilidad digital para productores de cacao**
+
+Sistema que permite documentar las etapas del proceso productivo del cacao, desde la cosecha hasta el almacenamiento, generando una carta de trazabilidad verificable mediante códigos QR.
+
+**Tecnologías:**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+[📂 Ver repositorio](https://github.com/D4veDurango/trazabilidad_digital)
+
+    </td>
+    <td width="50%" valign="top">
+
+### 📊 Logística Bananera Urabá
+
+**Análisis de datos para la cadena logística**
+
+Proyecto de análisis de información logística mediante un proceso ETL en Python y un dashboard ejecutivo en Power BI. Evalúa mermas, tiempos de tránsito e impacto financiero por municipio y franja horaria.
+
+**Tecnologías:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-00758F?style=flat-square&logo=microsoft&logoColor=white)
+
+[📂 Ver repositorio](https://github.com/D4veDurango/analisis-logistica-banano)
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🏢 Control de Implementos Universitarios
+
+**Gestión y control de inventario institucional**
+
+Aplicación web para administrar el préstamo y devolución de implementos universitarios, con diferentes roles de usuario, control de existencias e historial de movimientos.
+
+**Tecnologías:**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+[📂 Ver repositorio](https://github.com/D4veDurango/proyecto_implementos)
+
+    </td>
+    <td width="50%" valign="top">
+
+### 🔍 Próximamente...
+
+**Nuevos proyectos de análisis de datos**
+
+Continuamente trabajo en nuevos ejercicios y proyectos para fortalecer mis habilidades en SQL, Python, visualización de datos y resolución de problemas empresariales.
+
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Stack tecnológico
+
+### Lenguajes de programación
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,cpp,html,css" />
 </p>
+
+### Análisis de datos y visualización
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/DAX-00758F?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+</p>
+
+### Desarrollo web
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap,capacitor" />
+</p>
+
+### Bases de datos
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase" />
+</p>
+
+### Infraestructura y herramientas
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows" />
+  <img src="https://img.shields.io/badge/MikroTik-293239?style=flat-square&logo=mikrotik&logoColor=white" />
+  <img src="https://img.shields.io/badge/ZeroTier-FFB441?style=flat-square&logo=zerotier&logoColor=black" />
+  <img src="https://img.shields.io/badge/Veeam-00B336?style=flat-square&logo=veeam&logoColor=white" />
+</p>
+
+---
+
+## 📚 Aprendizaje continuo
+
+Actualmente estoy fortaleciendo mis conocimientos en:
+
+- Consultas SQL y SQL Server.
+- Análisis y transformación de datos con Python.
+- Modelado de datos y visualización con Power BI.
+- Construcción de proyectos orientados a problemas empresariales.
+
+Me interesa seguir aprendiendo mediante proyectos prácticos y experiencias que me permitan crecer profesionalmente.
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=D4veDurango&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D4veDurango&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Conectemos
+
+¿Tienes un proyecto, una oportunidad o una idea en la que podamos colaborar?
+
+**Estoy abierto a nuevas oportunidades profesionales y desafíos tecnológicos.**
+
+<a href="https://www.linkedin.com/in/juan-david-durango-giraldo-115969261/">
+  <img src="https://img.shields.io/badge/LinkedIn-Juan_David_Durango-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:durangodavid2608@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Escríbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/>
+
+<sub>Construido con dedicación y aprendizaje continuo. © David Durango</sub>
+
+</div>
